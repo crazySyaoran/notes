@@ -3,7 +3,7 @@ layout: post
 title: 我的精神家园
 date: 2020-05-27
 Author: Syaoran 
-tags: [我的精神家园, 摘录]
+tags: [studyNote]
 comments: true
 ---
 
